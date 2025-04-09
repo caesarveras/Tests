@@ -1,0 +1,16 @@
+{
+    "users": {
+      "admin": {
+        "username": "seu_usuario_adm",
+        "password": "sua_senha_adm"
+      },
+      "user": {
+        "username": "usuario_comum",
+        "password": "senha_comum"
+      }
+    },
+    "ambientes": {
+      "login": "https://ultimateqa.com/complicated-page",
+      "API": "https://restful-booker.herokuapp.com"
+    }
+  }
