@@ -15,11 +15,13 @@ Automated test suite covering:
 - UI testing (click actions and login flows)
 
 ### 🚀 Quick Start
->bash
->git clone https://github.com/caesarveras/Tests/
->cd repo-name
->npm install
->npx cypress open
+```
+bash
+git clone https://github.com/caesarveras/Tests/
+cd nome-do-repo
+npm install
+npx cypress open
+```
 
 ### 📊 Reporting
 - HTML reports: cypress\screenshots
@@ -38,11 +40,13 @@ Suíte de testes automatizados para:
 - Testes de interface (cliques e login)
 
 ### 🚀 Inicializar
->bash
->git clone https://github.com/caesarveras/Tests/
->cd nome-do-repo
->npm install
->npx cypress open
+```
+bash
+git clone https://github.com/caesarveras/Tests/
+cd nome-do-repo
+npm install
+npx cypress open
+```
 
 ### 📊 Dados
 - HTML reports: cypress\screenshots
