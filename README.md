@@ -18,7 +18,7 @@ Automated test suite covering:
 ```
 bash
 git clone https://github.com/caesarveras/Tests/
-cd nome-do-repo
+cd Tests
 npm install
 npx cypress open
 ```
@@ -43,14 +43,14 @@ Suíte de testes automatizados para:
 ```
 bash
 git clone https://github.com/caesarveras/Tests/
-cd nome-do-repo
+cd Tests
 npm install
 npx cypress open
 ```
 
 ### 📊 Dados
-- HTML reports: cypress\screenshots
+- Prints da tela: cypress\screenshots
 
 ### 🛠 Configuração
-- Environment: cypress.config.js
-- Test data: cypress\fixtures\data.json
+- Ambientes: cypress.config.js
+- Dados de teste: cypress\fixtures\data.json
