@@ -1,7 +1,7 @@
 # QA Automation Test Suite
 
-![Cypress](https://img.shields.io/badge/Cypress-12.17.0-brightgreen)
-![Node](https://img.shields.io/badge/Node-18.x+-blue)
+![Cypress](https://img.shields.io/badge/Cypress-13.17.0-brightgreen)
+![Node](https://img.shields.io/badge/Node-22.7.4-blue)
 
 ## 🌎 Versions
 - [English](#english-version)
